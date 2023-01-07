@@ -17,6 +17,8 @@ Lume and with the NetlifyCMS.
    [Lume documentation site](https://lume.land/).
 4. Run Lume with `deno task serve`.
 
+TODO
+
 ### Implementation Notes
 
 - `about.md` shows how to add a content page.

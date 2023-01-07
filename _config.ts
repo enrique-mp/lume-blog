@@ -9,14 +9,16 @@ import netlifyCMS from "lume/plugins/netlify_cms.ts";
 import pageFind from "lume/plugins/pagefind.ts";
 
 const site = lume({
-  location: new URL("https://example.com/"),
+  location: new URL("https://enriquemp.ml/"),
 });
 
 site
   .ignore("README.md")
   .copy("img")
   .use(postcss())
-  .use(date())
+  .use(date({
+    locales: ["es"], 
+  }))
   .use(codeHighlight())
   .use(basePath())
   .use(pageFind({
