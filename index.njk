@@ -2,13 +2,13 @@
 layout: layouts/home.njk
 menu:
   visible: true
-  title: Home
+  title: Inicio
   order: 0
 ---
 
 {% set postslist = search.pages("type=posts", "date=desc", 3) %}
 
-<h1>Latest {% if postslist.length == 1 %}Post{% else %}{{ postslist.length }} Posts{% endif %}</h1>
+<h1>Últimas {% if postslist.length == 1 %}Entradas{% else %}{{ postslist.length }} Posts{% endif %}</h1>
 
 {% include "templates/postslist.njk" %}
 
@@ -22,4 +22,4 @@ menu:
   <hr>
 {% endif %}
 
-<p>More posts can be found in <a href="/posts/">the archive</a>.</p>
+<p>Puedes encontras mas entradas en <a href="/posts/">el archivo</a>.</p>

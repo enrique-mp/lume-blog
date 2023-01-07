@@ -7,6 +7,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import resolveUrls from "lume/plugins/resolve_urls.ts";
 import netlifyCMS from "lume/plugins/netlify_cms.ts";
 import pageFind from "lume/plugins/pagefind.ts";
+import imagick from "lume/plugins/imagick.ts";
 
 const site = lume({
   location: new URL("https://enriquemp.ml/"),
@@ -28,6 +29,7 @@ site
   }))
   .use(slugifyUrls({ alphanumeric: false }))
   .use(resolveUrls())
+  .use(imagick())
   .use(netlifyCMS({ netlifyIdentity: true }));
 
 export default site;
