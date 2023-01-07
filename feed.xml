@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>El Blog de Enrique MP</title>
+	<subtitle>Escribiendo sobre mis experiencias informáticas.</subtitle>
+	<link href="https://lumeland.github.io/base-blog/feed.xml" rel="self"/>
+	<link href="https://lumeland.github.io/base-blog/"/>
+	
+	<updated>2023-01-07T19:56:50Z</updated>
+	<id>https://lumeland.github.io/base-blog/</id>
+	<author>
+		<name>Enrique MP,</name>
+		<email>enriquemp.dev@gmail.com,</email>
+	</author>
+	<entry>
+		<title>Mi primer post</title>
+		<link href="https://lumeland.github.io/base-blog/posts/20230701-mi-primer-post/"/>
+		<updated>2023-01-07T00:00:00Z</updated>
+		<id>https://lumeland.github.io/base-blog/posts/20230701-mi-primer-post/</id>
+		<content type="html">&lt;p&gt;Después de muchos años pululando por la red en modo &amp;quot;undercover&amp;quot;, al fin me decido a publicar un blog. Claro, ya sé que los blogs ya no se llevan, y que son cosas de &amp;quot;viejunos&amp;quot;, pero al fin y al cabo, yo soy uno de ellos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../img/blog.jpg&quot; alt=&quot;Image by Wokandpix&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Hablando de blogs&lt;/h2&gt;
+&lt;p&gt;Para aquellos que ya peinan canas, o casi, los blogs fueron, y todavia son,una fuente de conocimientos brutal, tanto a nivel afición, como a nivel profesional. Una forma de estar al día de todo aquello que te interese, alejándote a la vez del ruido que provocan los medios tradicionales, y que por otra parte, tanto gusta a mucha gente, no vamos ahora a criminalizar a nadie. Hay espacio para todos, pero yo, que por mi forma de ser, soy un poco &amp;quot;outsider&amp;quot;, abogo más por la información concisa e independiente, alejada del ruido.&lt;/p&gt;
+&lt;h2&gt;Vamos a ello&lt;/h2&gt;
+&lt;p&gt;Lejos de buscar notoriedad, el proposito de este blog, o mejor dicho, los propositos, son principalmente dos. Primero, y más importante; que me sirva de cuaderno de apuntes. Ya las neuronas empiezan a estar cansadas, y me he visto más de una vez perdiendo horas buscando algo que habia hecho en otras ocasiones, pero que no recordaba exactamente como. De esta manera, la intención es compartir lo que voy aprendiendo en este blog, para que cuando me haga falta, poder recurrir a mi &amp;quot;centro de inteligencia centralizado&amp;quot;.
+El segundo motivo, y no por ello menos importante, tiene que ver con el famoso &amp;quot;Síndrome del impostor&amp;quot;. Me explico. Uno se ve, como un &amp;quot;mindundi&amp;quot; que no sabe nada y se pasa el dia aprendiendo. Pero luego resulta, que cuando hablas con la gente de tu alrededor, te das cuenta que sabes más de lo que piensas, y que contra tu parecer, puede haber personas a las que tus &amp;quot;pocos&amp;quot; conocimientos pueden resultarles muy útiles. Además, me siento en deuda con la comunidad, todas aquellas personas que han compartido su conocimiento. Y que menos, que devolver a la comunidad mi pequeña aportación.&lt;/p&gt;</content>
+	</entry>
+</feed>

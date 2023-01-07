@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "El Blog de Enrique MP",
+  "home_page_url": "https://lumeland.github.io/base-blog/",
+  "feed_url": "https://lumeland.github.io/base-blog/feed.json",
+  "description": "Escribiendo sobre mis experiencias informáticas.",
+  "author": {
+    "name": "Enrique MP,",
+    "url": "https://enriquemp.ml"
+  },
+  "items": [
+    {
+      "id": "https://lumeland.github.io/base-blog/posts/20230701-mi-primer-post/",
+      "url": "https://lumeland.github.io/base-blog/posts/20230701-mi-primer-post/",
+      "title": "Mi primer post",
+      "content_html": "<p>Después de muchos años pululando por la red en modo &quot;undercover&quot;, al fin me decido a publicar un blog. Claro, ya sé que los blogs ya no se llevan, y que son cosas de &quot;viejunos&quot;, pero al fin y al cabo, yo soy uno de ellos.</p>\n<p><img src=\"../img/blog.jpg\" alt=\"Image by Wokandpix\"></p>\n<h2>Hablando de blogs</h2>\n<p>Para aquellos que ya peinan canas, o casi, los blogs fueron, y todavia son,una fuente de conocimientos brutal, tanto a nivel afición, como a nivel profesional. Una forma de estar al día de todo aquello que te interese, alejándote a la vez del ruido que provocan los medios tradicionales, y que por otra parte, tanto gusta a mucha gente, no vamos ahora a criminalizar a nadie. Hay espacio para todos, pero yo, que por mi forma de ser, soy un poco &quot;outsider&quot;, abogo más por la información concisa e independiente, alejada del ruido.</p>\n<h2>Vamos a ello</h2>\n<p>Lejos de buscar notoriedad, el proposito de este blog, o mejor dicho, los propositos, son principalmente dos. Primero, y más importante; que me sirva de cuaderno de apuntes. Ya las neuronas empiezan a estar cansadas, y me he visto más de una vez perdiendo horas buscando algo que habia hecho en otras ocasiones, pero que no recordaba exactamente como. De esta manera, la intención es compartir lo que voy aprendiendo en este blog, para que cuando me haga falta, poder recurrir a mi &quot;centro de inteligencia centralizado&quot;.\nEl segundo motivo, y no por ello menos importante, tiene que ver con el famoso &quot;Síndrome del impostor&quot;. Me explico. Uno se ve, como un &quot;mindundi&quot; que no sabe nada y se pasa el dia aprendiendo. Pero luego resulta, que cuando hablas con la gente de tu alrededor, te das cuenta que sabes más de lo que piensas, y que contra tu parecer, puede haber personas a las que tus &quot;pocos&quot; conocimientos pueden resultarles muy útiles. Además, me siento en deuda con la comunidad, todas aquellas personas que han compartido su conocimiento. Y que menos, que devolver a la comunidad mi pequeña aportación.</p>",
+      "date_published": "2023-01-07T00:00:00Z"
+    }
+  ]
+}
